@@ -13,6 +13,9 @@ module.exports = {
         'lightRed': '#FF4242',
         'white': '#FFFFFF',
       },
+      fontFamily: {
+        'raleway': ['Raleway', 'sans-serif']
+      },
     },
   },
   plugins: [],
